@@ -54,7 +54,7 @@ setup(
         "scipy~=1.9.3",
         "tqdm~=4.64.1",
         "uvicorn~=0.20.0",
-        "watchdog~=2.1.9",
+        #"watchdog~=2.1.9",
     ],
     entry_points={
         "console_scripts": [
