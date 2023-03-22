@@ -39,7 +39,7 @@ setup(
     install_requires=[
         "aiohttp~=3.8.1",
         "asyncer~=0.0.2",
-        "click~=8.1.3",
+        #"click~=8.1.3",
         "fastapi~=0.87.0",
         "filetype~=1.2.0",
         "pooch~=1.6.0",
